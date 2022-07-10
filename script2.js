@@ -46,6 +46,13 @@ let students = {
             name: 'Sam',
             progress: 10
         }],
+        
+        semi: {
+            students: [{
+                name: 'Test',
+                progress: 100
+            }]
+        }
     }
 };
 
